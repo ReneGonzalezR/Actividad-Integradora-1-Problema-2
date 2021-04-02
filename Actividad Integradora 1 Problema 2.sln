@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31105.61
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Actividad Integradora 1 Problema 2", "Actividad Integradora 1 Problema 2.csproj", "{CC36786A-5B38-4C28-AA55-D2A3BF93EFD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Actividad Integradora 1 Problema 2", "Actividad Integradora 1 Problema 2.csproj", "{A303C7EE-4253-493B-B1F6-71BCD15CABD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CC36786A-5B38-4C28-AA55-D2A3BF93EFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC36786A-5B38-4C28-AA55-D2A3BF93EFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC36786A-5B38-4C28-AA55-D2A3BF93EFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC36786A-5B38-4C28-AA55-D2A3BF93EFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A303C7EE-4253-493B-B1F6-71BCD15CABD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A303C7EE-4253-493B-B1F6-71BCD15CABD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A303C7EE-4253-493B-B1F6-71BCD15CABD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A303C7EE-4253-493B-B1F6-71BCD15CABD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5BC61ECF-9045-4CD0-9901-6CACC60D1F4B}
+		SolutionGuid = {947DB31F-52FC-40B6-B754-F4ECBD5F37C7}
 	EndGlobalSection
 EndGlobal
